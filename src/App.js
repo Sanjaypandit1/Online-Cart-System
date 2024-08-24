@@ -26,11 +26,6 @@ function App() {
       name: "Dell Laptop",
       quantity: 0,
     },
-    {
-      price: 45000,
-      name: "Computer i5 8th gen",
-      quantity: 0,
-    },
   ];
 
   let [products, setProducts] = useState(initialProductList);
