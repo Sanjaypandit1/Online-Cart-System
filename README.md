@@ -28,10 +28,15 @@ git clone https://github.com/Sanjaypandit1/Online-Cart-System.git
    ```bash
    cd Online-Cart-System
    ```
-3. Run `npm install` in install dependencies.
-   ```
-4. Run `npm start` in your code.
-This will start the development server, and you should be able to view the app in your browser at http://localhost:3000.
+3. Run this to install dependencies.
+   ```bash
+   npm install
+    ```
+4. Run this code to view this project.
+      ```bash
+   npm start
+    ```
+This will start the development server, and you should be able to view the app in your browser.
 
 ## Technologies Used
 
